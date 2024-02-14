@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 
+
 int main(){
     int arr[10],n,i,temp;
     cout<<"enter the number of elemnts you want to insert";
